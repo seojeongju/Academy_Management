@@ -1,0 +1,19 @@
+{
+    "name": "academy-management-frontend",
+    "version": "1.0.0",
+    "description": "학원 관리 시스템 프론트엔드",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "vite": "^5.0.8"
+    },
+    "dependencies": {
+        "chart.js": "^4.4.1"
+    }
+}
