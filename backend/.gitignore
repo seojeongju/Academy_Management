@@ -35,3 +35,6 @@ Thumbs.db
 
 # Uploads
 uploads/
+
+# Database
+database.sqlite
