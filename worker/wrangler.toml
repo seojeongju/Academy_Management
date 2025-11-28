@@ -1,0 +1,8 @@
+name = "academy-backend"
+main = "src/index.js"
+compatibility_date = "2024-02-08"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "academy-db"
+database_id = "32231c3c-0193-48e5-a9ce-8f348ad9910f"

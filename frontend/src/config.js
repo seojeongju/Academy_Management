@@ -1,5 +1,5 @@
 const config = {
-    API_URL: 'http://localhost:3000/api'
+    API_URL: 'https://academy-backend.jayseo36.workers.dev/api'
 };
 
 export default config;
